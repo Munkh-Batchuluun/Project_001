@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'ai_generator_app',
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
-            'host': 'mongodb+srv://shf9h43jkfdv:kdfsngsknjv98@testdata.brhl0sa.mongodb.net/?retryWrites=true&w=majority&appName=TestData',
+            'host': 'mongodb+srv://testuser_01:testuser_01@testdata.brhl0sa.mongodb.net/?retryWrites=true&w=majority&appName=TestData',
             'port': 27017,
             'username': 'munkh_batchuluun',
             'password': 'Amin-0314',
